@@ -8,7 +8,4 @@ In this tutorial ([modelling_spatial_representations.ipynb](modelling_spatial_re
 2. Make spatial representations (pace cells, grid cells) and generate data for these as the agent explores.
 3. Build a simple model of the brain where grid cells sum together to make place cells. 
 
-We recommend cloning and running on your local IDE (it isn't compute heavy and won't require GPUs), but you can also run remotely on Google colab here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TomGeorge1234/ModellingSpatialRepresentations/blob/master/modelling_spatial_representations.ipynb).
-
-
-Test
+We recommend cloning and running on your local IDE (it isn't compute heavy and won't require GPUs), but you can also run remotely on Google colab here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TomGeorge1234/ModellingSpatialRepresentations/blob/master/modelling_spatial_representations.ipynb).
